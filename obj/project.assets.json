@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\usetr\\MyCSharpApp\\HelloWorldApp\\HelloWorldApp.csproj",
+      "projectUniqueName": "c:\\Users\\usetr\\MyCSharpApp\\HelloWorldApp\\HelloWorldApp.csproj",
       "projectName": "HelloWorldApp",
-      "projectPath": "C:\\Users\\usetr\\MyCSharpApp\\HelloWorldApp\\HelloWorldApp.csproj",
+      "projectPath": "c:\\Users\\usetr\\MyCSharpApp\\HelloWorldApp\\HelloWorldApp.csproj",
       "packagesPath": "C:\\Users\\usetr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\usetr\\MyCSharpApp\\HelloWorldApp\\obj\\",
+      "outputPath": "c:\\Users\\usetr\\MyCSharpApp\\HelloWorldApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\usetr\\AppData\\Roaming\\NuGet\\NuGet.Config"
